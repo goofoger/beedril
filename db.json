@@ -5,24 +5,24 @@
    		"name":"friren",
    		"surname":"Sousou",
    		"photo_url":"https://img.joomcdn.net/f7055d7e7bdd5244454cc5c3c252469997362520_original.jpeg",
-   		"balance": 1000,
+   		"balance": 1000
    	},
    	{
    			"id": 2,
    		"name":"naruto",
    		"surname":"usumaki",
    		"photo_url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS43JXNEKlTMEGVVUEuntNaST88Q881vgapZQ&s",
-   		"balance": 10000,
+   		"balance": 10000
 		},
 		   	{
    			"id": 3,
    		"name":"nezuko",
    		"surname":"kamado",
    		"photo_url":"https://anibase.net/files/877d03ad6ee010c6698a621e454e1667/360",
-   		"balance": 0,
+   		"balance": 0
 		},
 		   	{
-   			"id": 2,
+   			"id": 4,
    		"name":"san jun",
    		"surname":"vu",
    		"photo_url":"https://nyaa.shikimori.one/uploads/poster/characters/174185/main_alt-51b7f854304046f89b0d553bd3e54039.jpeg",
